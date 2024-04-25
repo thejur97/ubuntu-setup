@@ -1,4 +1,7 @@
-###TMUX-CONFIG
+####This is my ubuntu-setup configuration.
 
-- touch ~/.tmux.conf
-- cp in respective path
+###This is Ubuntu packages in my system.
+- tmux // for multiwindow
+- nvim // for text editor
+- okular // for pdf viewer
+- bashrc // to config the bash shell
