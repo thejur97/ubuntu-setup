@@ -1,0 +1,2 @@
+## if you want to ignore files and not in git tree, add path in 
+- .git/info/exclude
