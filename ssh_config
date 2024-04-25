@@ -1,0 +1,6 @@
+Host <*>
+  ServerAliveInterval 60
+  ServerAliveCountMax 100000
+  Hostname <IP>
+  User <username>
+  IdentityFile ~/.ssh/id_rsa
