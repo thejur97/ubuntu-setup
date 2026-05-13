@@ -1,6 +1,13 @@
-Host <*>
+Host *
   ServerAliveInterval 60
   ServerAliveCountMax 100000
-  Hostname <IP>
-  User <username>
   IdentityFile ~/.ssh/id_rsa
+
+Host p228
+  HostName 192.168.0.228
+  User theju
+
+Host p87
+  HostName 192.168.0.87
+  User theju
+
